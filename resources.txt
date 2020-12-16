@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/cplusplus/cpp_goto_statement.htm
+https://www.pbinfo.ro/articole/19/siruri-de-caractere-in-c
+https://www.geeksforgeeks.org/taking-string-input-space-c-3-different-methods/#:~:text=We%20can%20take%20string%20input,the%20form%20of%20user%20input.&text=Note%20%3A%20gets()%20has%20been%20removed%20from%20c11.
+https://stackoverflow.com/questions/1694036/why-is-the-gets-function-so-dangerous-that-it-should-not-be-used
+https://stackoverflow.com/questions/9206091/going-through-a-text-file-line-by-line-in-c
+https://stackoverflow.com/questions/19429138/append-to-the-end-of-a-file-in-c
+https://stackoverflow.com/questions/5929419/how-to-get-file-creation-date-in-linux
